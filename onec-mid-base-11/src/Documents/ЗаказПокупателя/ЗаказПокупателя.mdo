@@ -195,7 +195,7 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="20ec303d-df85-428a-8155-c73dfbb580e6">
-    <name>КонтактноеЛицо</name>
+    <name>КЛ_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
       <value>Контактное лицо</value>
